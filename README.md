@@ -31,4 +31,4 @@ Made with ❤️ in Philadelphia
 ### Skills
 - Languages: Ruby, Python
 - Operating Systems: MS Windows, UNIX/Linux, Mac OS, Android, iOS
-- Tools and Frameworks: Cucumber, Calabash, Capybara, git, gerrit, splunk, JIRA, Zephyr, Rally, ALM, Cha
+- Tools and Frameworks: Cucumber, Calabash, Capybara, git, gerrit, splunk, JIRA, Zephyr, Rally, ALM, Charles
