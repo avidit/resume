@@ -1,5 +1,5 @@
 # Aabishkar KC
-#### QA Automation Engineer at _Comcast Interactive Media_
+#### QA Automation Engineer at _Newforma, Inc._
 	603-512-2150
 	aabishkar@gmail.com
 
@@ -10,14 +10,24 @@
 
 ### QA Automation Engineer
 --------------------------
-#### Comcast Cable Inc., _(March 2014- Present)_
+#### ![](https://goo.gl/Y3Vq0H) Newforma, Inc. _(Feb 2016 - Present)_
+###### 1750 Elm Street,
+###### Manchester, NH 03104
+
+Newforma is a software company serving architecture, engineering, construction, and owner/operator 
+(AECO) to manage building and infrastructure project information.
+
+
+### QA Automation Engineer
+--------------------------
+#### ![](https://goo.gl/n5n9di) Comcast Cable, Inc. _(Mar 2014 - Jan 2016)_
 ###### 1701 John F Kennedy Boulevard, 
 ###### Philadelphia, PA 19103
 
 Comcast Cable is the nation's largest video, high-speed Internet and phone provider to residential as well as business customers under the __XFINITY__ brand.
 
-##### Our team is responsible for testing and maitaining standards of various flagship apps developed by Comcast such as:
-
+##### Our team was responsible for testing and maitaining standards of various flagship apps
+developed by Comcast as:
 
 | Apps  										| itunes ⬇																 | play store ⬇									|
 | ------------------------- | ---------------------------------------- | ---------------------------- |
@@ -29,6 +39,9 @@ Comcast Cable is the nation's largest video, high-speed Internet and phone provi
 Made with ❤️ in Philadelphia
 
 ### Skills
-- Languages: Ruby, Python
+- Languages: Ruby, Python, Groovy
 - Operating Systems: MS Windows, UNIX/Linux, Mac OS, Android, iOS
-- Tools and Frameworks: Cucumber, Calabash, Capybara, git, gerrit, splunk, JIRA, Zephyr, Rally, ALM, Charles
+- Tools and Frameworks: SoapUI, Cucumber, Calabash, Capybara, splunk, kibana, Charles
+- Version Control: GIT, gerrit
+- Bug Tracking: JIRA, Rally, BugSplat
+- Test Management tools: HP ALM(Quality Center), Zephyr, TestRail
