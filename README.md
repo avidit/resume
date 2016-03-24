@@ -26,8 +26,7 @@ Newforma is a software company serving architecture, engineering, construction, 
 
 Comcast Cable is the nation's largest video, high-speed Internet and phone provider to residential as well as business customers under the __XFINITY__ brand.
 
-##### Our team was responsible for testing and maitaining standards of various flagship apps
-developed by Comcast as:
+##### Our team was responsible for testing and maitaining standards of various flagship apps developed by Comcast as:
 
 | Apps  										| itunes ⬇																 | play store ⬇									|
 | ------------------------- | ---------------------------------------- | ---------------------------- |
