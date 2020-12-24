@@ -1,0 +1,52 @@
+﻿AABISHKAR KC
+276 Huse Rd, Manchester, NH 03103
+603-512-2150 | aabishkar@gmail.com
+
+Experienced Quality Assurance Automation Engineer with hands-on experience in building automation frameworks from scratch using different tools and languages for a wide range of test targets.
+
+
+EXPERIENCE
+
+NEWFORMA, INC.
+Manchester, NH
+1750 Elm Street, Manchester, NH 03104
+
+Performance Lead
+September 2017 - Present
+* Performance testing of Newforma APIs
+* Performance testing of Newforma Cloud Web app
+
+Tools and Languages: jmeter, TestComplete, mocha, python, javascript, bash
+
+QA Automation Engineer
+February 2016 - September 2017
+
+* Functional testing of Newforma APIs
+* Automated testing of Newforma Project Center
+
+Tools and Languages: soapUI, TestComplete, groovy, delphi, bash
+
+
+COMCAST CORPORATION
+Philadelphia, PA
+1701 John F Kennedy Boulevard, Philadelphia, PA 19103
+
+QA Automation Engineer
+March 2014 - January 2016
+
+* Automated testing of various flagship mobile apps developed by Comcast
+
+Tools and Languages: calabash, cucumber, xcode, ruby, bash
+
+
+SKILLS
+
+* Languages: python, javascript, ruby groovy, bash
+* Tools and Frameworks: TestComplete, jmeter, soapUI, cucumber, calabash, charles, git, gerrit
+* Bug Tracking: jira, rally, BugSplat
+* Test Management tools: HP ALM(Quality Center), Zephyr, TestRail
+
+
+EDUCATION
+
+* BSc, Computer Science, Southern New Hampshire University (2014)
