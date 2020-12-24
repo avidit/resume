@@ -1,0 +1,8 @@
+title: Resume
+description: My Resume
+google_analytics: UA-65322510-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
