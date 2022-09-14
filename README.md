@@ -9,11 +9,12 @@ for a wide range of test targets.
 
 ## EXPERIENCE
 
----
-
 ### [Autodesk, Inc](https://www.autodesk.com/)
 
-<img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" alt="Autodesk" width="150" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-wht.svg">
+    <img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" alt="Autodesk" width="150">
+</picture>
 
 23 Drydock Avenue, Ste. 110E <br />Boston, MA 02210
 
@@ -49,7 +50,10 @@ Tools and Languages: soapUI, TestComplete, groovy, delphi, bash
 
 ### [Comcast Corporation](https://www.xfinity.com/)
 
-<img src="https://polaris.xfinity.com/images/svgs/xfinity_logo.svg" alt="Xfinity" width="100" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://login.xfinity.com/static/images/global/xfinity-logo-white.svg">
+    <img src="https://login.xfinity.com/static/images/global/xfinity-logo-black.svg" alt="Xfinity" width="100">
+</picture>
 
 1701 John F Kennedy Boulevard<br />Philadelphia, PA 19103
 
