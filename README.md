@@ -11,6 +11,16 @@ for a wide range of test targets.
 
 ---
 
+### [Autodesk, Inc](https://www.autodesk.com/)
+
+<img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" alt="Autodesk" width="150" />
+
+23 Drydock Avenue, Ste. 110E <br />Boston, MA 02210
+
+#### Sr. SW Eng. Test
+
+February 2021 - Present
+
 ### [Newforma, Inc.](https://www.newforma.com/)
 
 <img src="https://3dn8bl2ovm9n3qkm9z6sccmm-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/logo.svg" alt="Newforma" width="150" />
@@ -22,7 +32,7 @@ and owner/operator (AECO) to manage building and infrastructure project informat
 
 #### Performance Lead
 
-September 2017 - Present
+September 2017 - January 2021
 
 * Performance testing of [Newforma APIs](https://developer.newforma.cloud/)
 * Performance testing of [Newforma Cloud Web app](https://newforma.cloud/)
@@ -79,4 +89,4 @@ Made with ❤️ in Philadelphia
 
 ---
 
-* **BSc, Computer Science**, _Southern New Hampshire University_ (2014)
+* __BSc, Computer Science__, _Southern New Hampshire University_ (2014)

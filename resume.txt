@@ -7,12 +7,19 @@ Experienced Quality Assurance Automation Engineer with hands-on experience in bu
 
 EXPERIENCE
 
+AUTODESK, INC.
+23 Drydock Avenue, Ste. 110E
+Boston, MA 02210
+
+Sr. SW Eng. Test
+February 2021 - Present
+
 NEWFORMA, INC.
 Manchester, NH
 1750 Elm Street, Manchester, NH 03104
 
 Performance Lead
-September 2017 - Present
+September 2017 - January 2021
 * Performance testing of Newforma APIs
 * Performance testing of Newforma Cloud Web app
 
