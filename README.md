@@ -9,8 +9,6 @@ for a wide range of test targets.
 
 ## EXPERIENCE
 
----
-
 ### [Autodesk, Inc](https://www.autodesk.com/)
 
 <img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" alt="Autodesk" width="150" />
@@ -49,7 +47,7 @@ Tools and Languages: soapUI, TestComplete, groovy, delphi, bash
 
 ### [Comcast Corporation](https://www.xfinity.com/)
 
-<img src="https://polaris.xfinity.com/images/svgs/xfinity_logo.svg" alt="Xfinity" width="100" />
+<img src="https://login.xfinity.com/static/images/global/xfinity-logo-black.svg" alt="Xfinity" width="100" />
 
 1701 John F Kennedy Boulevard<br />Philadelphia, PA 19103
 
@@ -69,10 +67,10 @@ flagship apps developed by Comcast as:
 
 | Apps                     |                                                                                                                                                                                                     |                                                                                                                                                                        |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Xfinity TV__           | <a href="https://apps.apple.com/us/app/xfinity-tv/id731629156"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.cloudtvr"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png"></a> |
-| __Xfinity TV Go__        | <a href="https://apps.apple.com/us/app/xfinity-tv/id552293383"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.playnow"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png"></a>  |
-| __Xfinity TV remote__    | <a href="https://apps.apple.com/us/app/xfinity-tv/id401629893"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.tv"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png"></a>       |
-| __Xfinity TV X1 remote__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id527726789"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.remote"><img src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_1x.png"></a>   |
+| __Xfinity TV__           | <a href="https://apps.apple.com/us/app/xfinity-tv/id731629156"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.cloudtvr"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a> |
+| __Xfinity TV Go__        | <a href="https://apps.apple.com/us/app/xfinity-tv/id552293383"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.playnow"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>  |
+| __Xfinity TV remote__    | <a href="https://apps.apple.com/us/app/xfinity-tv/id401629893"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.tv"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>       |
+| __Xfinity TV X1 remote__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id527726789"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.remote"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>   |
 
 Made with ❤️ in Philadelphia
 
