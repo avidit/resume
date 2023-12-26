@@ -11,7 +11,7 @@ for a wide range of test targets.
 
 ### [Autodesk, Inc](https://www.autodesk.com/)
 
-<img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" alt="Autodesk" width="150" />
+<img src="assets/autodesk-logo-blk.svg" alt="Autodesk" width="150" />
 
 23 Drydock Avenue, Ste. 110E <br />Boston, MA 02210
 
@@ -21,7 +21,7 @@ February 2021 - Present
 
 ### [Newforma, Inc.](https://www.newforma.com/)
 
-<img src="https://3dn8bl2ovm9n3qkm9z6sccmm-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/logo.svg" alt="Newforma" width="150" />
+<img src="assets/newforma-logo-black.svg" alt="Newforma" width="150" />
 
 1750 Elm Street<br />Manchester, NH 03104
 
@@ -47,7 +47,7 @@ Tools and Languages: soapUI, TestComplete, groovy, delphi, bash
 
 ### [Comcast Corporation](https://www.xfinity.com/)
 
-<img src="https://login.xfinity.com/static/images/global/xfinity-logo-black.svg" alt="Xfinity" width="100" />
+<img src="assets/xfinity-logo-black.svg" alt="Xfinity" width="100" />
 
 1701 John F Kennedy Boulevard<br />Philadelphia, PA 19103
 
@@ -65,14 +65,14 @@ Tools and Languages: calabash, cucumber, xcode, ruby, bash
 Our team was responsible for testing and maitaining standards of various
 flagship apps developed by Comcast as:
 
-| Apps                     |                                                                                                                                                                                                     |                                                                                                                                                                        |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| __Xfinity TV__           | <a href="https://apps.apple.com/us/app/xfinity-tv/id731629156"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.cloudtvr"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a> |
-| __Xfinity TV Go__        | <a href="https://apps.apple.com/us/app/xfinity-tv/id552293383"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.playnow"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>  |
-| __Xfinity TV remote__    | <a href="https://apps.apple.com/us/app/xfinity-tv/id401629893"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.tv"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>       |
-| __Xfinity TV X1 remote__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id527726789"><img src="https://www.apple.com/v/app-store/a/images/overview/icon_appstore__ev0z770zyxoy_small.png" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.remote"><img src="https://www.gstatic.com/android/market_images/web/favicon_v3.ico"></a>   |
+| Apps | | |
+| --- | --- | --- |
+| __Xfinity TV__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id731629156"><img src="assets/app_store.svg" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.cloudtvr"><img src="assets/play_store.svg" alt="Play Store" width="40"></a> |
+| __Xfinity TV Go__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id552293383"><img src="assets/app_store.svg" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.playnow"><img src="assets/play_store.svg" alt="Play Store" width="40"></a> |
+| __Xfinity TV remote__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id401629893"><img src="assets/app_store.svg" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.tv"><img src="assets/play_store.svg" alt="Play Store" width="40"></a> |
+| __Xfinity TV X1 remote__ | <a href="https://apps.apple.com/us/app/xfinity-tv/id527726789"><img src="assets/app_store.svg" alt="App Store" width="40"></a> | <a href="https://play.google.com/store/apps/details?id=com.xfinity.remote"><img src="assets/play_store.svg" alt="Play Store" width="40"></a> |
 
-Made with ❤️ in Philadelphia
+Made with ❤️ in Philadelphia
 
 ## SKILLS
 
